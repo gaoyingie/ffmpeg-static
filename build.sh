@@ -109,10 +109,10 @@ download \
   "https://code.videolan.org/videolan/x264/-/archive/stable/"
 
 download \
-  "x265_2.7.tar.gz" \
+  "x265_3.5.tar.gz" \
   "" \
-  "b0d7d20da2a418fa4f53a559946ea079" \
-  "http://download.openpkg.org/components/cache/x265/"
+  "deb5df5cb2ec17bdbae6ac6bbc3b1eef" \
+  "https://bitbucket.org/multicoreware/x265_git/downloads/"
 
 download \
   "v0.1.6.tar.gz" \
